@@ -42,5 +42,4 @@ Para que um sistema externo (computador ou outro microcontrolador) consiga alter
 * **Stop bits:** 1
 * **Payload:** O sistema aguarda exatamente 3 caracteres ASCII numéricos representando a frequência alvo em Hertz. Exemplo: Para configurar uma saída de 60 Hz, o dispositivo externo deve enviar a string `060`. A faixa de operação recomendada é entre 005 Hz e 120 Hz.
 
-[![Vídeo do Gerador SPWM](https://img.youtube.com/vi/BsvgrsPFOvA/0.jpg)](https://youtu.be/BsvgrsPFOvA)
-*Clique na imagem acima para ver o sistema em funcionamento no YouTube.*
+[![Assistir Vídeo do Projeto](https://img.shields.io/badge/YouTube-Assistir%20Vídeo-red?style=for-the-badge&logo=youtube)](https://youtu.be/BsvgrsPFOvA)
