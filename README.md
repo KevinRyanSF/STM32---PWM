@@ -42,10 +42,3 @@ Para que um sistema externo (computador ou outro microcontrolador) consiga alter
 * **Stop bits:** 1
 * **Payload:** O sistema aguarda exatamente 3 caracteres ASCII numéricos representando a frequência alvo em Hertz. Exemplo: Para configurar uma saída de 60 Hz, o dispositivo externo deve enviar a string `060`. A faixa de operação recomendada é entre 005 Hz e 120 Hz.
 
-## Como Compilar e Gravar
-
-1. Clone este repositório para o seu computador.
-2. Abra a IDE **STM32CubeIDE**.
-3. Navegue até `File > Import > General > Existing Projects into Workspace` e selecione o diretório clonado.
-4. Realize o build do projeto utilizando o botão de compilação (ícone do martelo).
-5. Conecte o microcontrolador via ST-Link e clique em "Run" ou "Debug" para transferir o firmware.
