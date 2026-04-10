@@ -25,8 +25,7 @@ $$f_c = \frac{1}{2\pi R C} \approx 482 \text{ Hz}$$
 
 O diagrama a seguir ilustra a conexão necessária entre o pino de saída do microcontrolador e a topologia do filtro passivo para extração do sinal.
 
-![Diagrama do Filtro Passa-Baixa](./imagem_do_diagrama.png)
-*(Certifique-se de salvar a imagem do seu esquemático como `imagem_do_diagrama.png` na raiz do repositório).*
+![Diagrama do Filtro Passa-Baixa](./esquematico.png)
 
 ## Protocolo de Comunicação e Interface
 
